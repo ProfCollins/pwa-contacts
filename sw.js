@@ -10,7 +10,7 @@ const assests = [
     'css/materialize.min.css',
     'css/styles.css',
     'img/icons/icon-144.png',
-    'img/pkcontacts.png',
+    'img/bw.png',
     'https://fonts.googleapis.com/icon?family=Material+Icons'
 ];
 
